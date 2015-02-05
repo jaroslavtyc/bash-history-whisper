@@ -7,10 +7,10 @@
  ```
  
 ###Result
-Any command you ever wrote to shell can be simply restored by write part of it and pressing **up arrow**.
+Any command you ever wrote to shell can be simply restored by writing a leading part of it and pressing **up arrow**.
 
 ####Example
-You connected via a ssh tunnel to remote MySQL database yesterday
+You had connected via a ssh tunnel to remote MySQL database yesterday
 ```
 ssh -Ng -L 15000:localhost:3306 production-server-1
 ```
